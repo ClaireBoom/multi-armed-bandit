@@ -1,0 +1,2 @@
+# multi-armed-bandit
+The multi-armed bandit problem is a great demonstration of the efficacy of various algorithms for reinforced learning. It involves giving an algorithm a set of 'slot machine' levers to pull and letting it decide which lever to pull next. The problem presents a unique challenge for an algorithm to balance between exploration versus exploitation in choosing which lever is the most advantageous choice.
